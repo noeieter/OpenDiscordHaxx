@@ -1,7 +1,3 @@
-# About
-OpenDiscordHaxx is an opensource version of my raidbot 'DiscordHaxx' that was released about half a year ago.<br>
-This raidbot is powered by Anarchy (https://github.com/iLinked1337/Anarchy), which is a powerful API wrapper that specializes in selfbots of all sorts.<br>
-
 # Features
 ### Bots
 - Joiner
